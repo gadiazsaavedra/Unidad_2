@@ -1,0 +1,14 @@
+h1 {color: red;}
+
+p {
+  color: red;
+  font-size: xx-large;
+}
+
+#mi_parrafo {
+  color: #c8144a;
+  font-weight: bold;
+  background-color: #49bc6d;
+  position: absolute;
+}
+
